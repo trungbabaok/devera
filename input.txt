@@ -1,8 +1,14 @@
 this is from branch main
 this is from branch-A
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 this is from branch-A2
 this is from branch-B
 this is from branch-C
 >>>>>>> 798215a (merge B to main)
+=======
+this is from branch-A2
+this is from branch-B
+this is from branch-C
+>>>>>>> 798215ade0a7ccbd6cdc6ab3156d55e0e0a7619d
